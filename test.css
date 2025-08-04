@@ -25,3 +25,50 @@ h2 {
   border-bottom: 2px solid #e0e0e0;
   padding-bottom: 5px;
 }
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #777;
+}
+✅ To Host This on GitHub Pages
+Push both files to the main branch of your GitHub repo summer_4Aug.
+
+Go to Settings > Pages
+
+Select:
+
+Source: main
+
+Folder: / (root)
+
+Click Save
+
+Visit your hosted CV at:
+
+arduino
+Copy
+Edit
+https://<your-username>.github.io/summer_4Aug/
+Let me know if you want this turned into a .zip file or if you want a version with dark mode or animations.
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
+
